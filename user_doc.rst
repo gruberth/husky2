@@ -1,6 +1,8 @@
 husky2
 ======
 
+OUTDATED!!! PLEASE USE VERSION FROM SMARTHOMENG/PLUGINS!
+
 Ein Plugin um diverse Husqvarna Automower (R) mit SmartHomeNG ansteuern zu können, sowie deren Informationen abzufragen.
 
 Anforderungen
